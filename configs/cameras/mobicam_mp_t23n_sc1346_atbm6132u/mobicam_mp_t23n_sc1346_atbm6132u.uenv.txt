@@ -1,0 +1,4 @@
+gpio_default=6o 7O 16O 18O 49i 50i 57o 58o 59o
+gpio_button: 50
+gpio_blue: 16
+gpio_speaker: 7
